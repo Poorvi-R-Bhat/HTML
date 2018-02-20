@@ -1,0 +1,25 @@
+article{
+  margin-left: 50px;
+  font-family: fantasy;
+}
+article.simpleBorder
+{
+  font-weight: bold;
+  font-family: sans-serif;
+  border-style: dotted;
+  border-color: pink;
+  border-width: thick;
+}
+.complexBorder{
+  font-weight: bold;
+  font-family: sans-serif;
+
+  border-style: dashed;
+  border-color: red;
+  border-left-style: double;
+  }
+.shortBorder{
+  border-style: dotted;
+  font-weight: bold;
+
+}

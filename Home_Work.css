@@ -1,0 +1,17 @@
+title{
+  font-size: 100px;
+  font-style: italic;
+  font-weight: bold;
+}
+table{
+  border-style: dashed;
+  font-family: italic;
+}
+article>h4 {
+  font-weight: lighter;
+}
+article>h3{
+font-size-adjust: auto;
+font-weight: bolder;
+font-family: monospace;
+}

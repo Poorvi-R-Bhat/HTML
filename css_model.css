@@ -1,0 +1,7 @@
+body { font-weight: bold; }
+
+header, footer { background-color: black; color: white; }
+
+section > nav { background-color: pink; }
+
+section article { background-color: red; }
